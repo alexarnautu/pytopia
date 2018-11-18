@@ -1,0 +1,10 @@
+# Packaging
+build
+dist
+pytopia.egg-info
+
+# Pycharm
+.idea
+
+# Virtualenv
+venv
