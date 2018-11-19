@@ -1,4 +1,6 @@
 # :rocket: Pytopia 
+![License](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 Pytopia is a library that allows you to interact with Cryptopia API.
 
 ## :memo: Requirements
