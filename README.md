@@ -1,17 +1,17 @@
-# Pytopia 
+# :rocket: Pytopia 
 Pytopia is a library that allows you to interact with Cryptopia API.
- 
-# Requirements
+
+## :memo: Requirements
 - Python (3.6, 3.7)
 
-# Installation
+## :floppy_disk: Installation
 
 To install this package, you need to make sure **pip** is installed:
 ```bash
 pip install pytopia
 ```
 
-## Example
+## :mortar_board: Example
 
 Let's take a look over a simple example on how to use it:
 
